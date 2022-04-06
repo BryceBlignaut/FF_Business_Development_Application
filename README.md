@@ -5,7 +5,7 @@ This repo contains code used to predict the number of restaurants by tract
 
 ### How to Run the Application
 
-1. Open file repository in VS code
+1. Clone this Github repository to VS code
 2. Open "project_streamlit.py" file 
 3. Open a new terminal
 4. Install the streamlit library - pip install streamlit
