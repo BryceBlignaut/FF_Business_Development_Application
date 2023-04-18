@@ -6,7 +6,6 @@ import pickle
 
 # Graphing packages
 import altair as alt
-import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
 
