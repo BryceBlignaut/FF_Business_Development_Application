@@ -4,4 +4,3 @@ numpy
 altair
 pydeck
 matplotlib
-sklearn
