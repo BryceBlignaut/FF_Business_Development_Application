@@ -6,7 +6,6 @@ import pickle
 
 # Graphing packages
 import altair as alt
-import seaborn as sns
 
 # stuff for machine
 from sklearn import datasets
