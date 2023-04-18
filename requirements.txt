@@ -5,3 +5,4 @@ pickle
 altair
 pydeck
 matplotlib
+sklearn
